@@ -5,3 +5,13 @@ Makefile
 cmake_install.cmake
 install_manifest.txt
 CTestTestfile.cmake
+*.vcxproj
+.vs/
+*.filters
+*.lib
+*.pdb
+Win32/
+*.log
+*.sln
+*.dir/
+*.VC.db
